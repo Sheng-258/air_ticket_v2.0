@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1725191199 source:d:\ccode\air_ticket_v2.0\addflight.c
+	<stdio.h>
+	<stdlib.h>
+	"addFlight.h"
+	"globals.h"
+	"global_list.h"
+
+1725241415 source:d:\ccode\air_ticket_v2.0\checkbookinginformation.c
+	<stdio.h>
+	"refund_ticket.h"
+	"global_list.h"
+	<string.h>
+	"CheckBookingInformation.h"
+
+1725175357 source:d:\ccode\air_ticket_v2.0\checkrouteinformation.c
+	<stdio.h>
+	"searchbyAirnumber.h"
+	"searchbystartPlace.h"
+	"searchbyEndPlace.h"
+
+1725179319 d:\ccode\air_ticket_v2.0\searchbyairnumber.h
+
+1725179319 d:\ccode\air_ticket_v2.0\searchbystartplace.h
+
+1725179319 d:\ccode\air_ticket_v2.0\searchbyendplace.h
+
+1725191853 source:d:\ccode\air_ticket_v2.0\deleteflight.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deleteFlight.h"
+	"globals.h"
+	"global_list.h"
+
+1725189898 source:d:\ccode\air_ticket_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"air_ticket.h"
+	"globals.h"
+	"global_list.h"
+
+1725185338 d:\ccode\air_ticket_v2.0\air_ticket.h
+
+1725192409 source:d:\ccode\air_ticket_v2.0\modifyflightinformation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ModifyFlightInformation.h"
+	"globals.h"
+	"global_list.h"
+
+1725193183 source:d:\ccode\air_ticket_v2.0\passengermeau.c
+	<stdio.h>
+	"passengermeau.h"
+
+1725100016 d:\ccode\air_ticket_v2.0\checkrouteinformation.h
+
+1725199369 d:\ccode\air_ticket_v2.0\orderticket.h
+
+1725239280 d:\ccode\air_ticket_v2.0\refund_ticket.h
+
+1725241096 d:\ccode\air_ticket_v2.0\checkbookinginformation.h
+
+1725192197 source:d:\ccode\air_ticket_v2.0\printordercustombyairnum1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"printOrderCustomByAirNum1.h"
+	"global_list.h"
+
+1725241267 source:d:\ccode\air_ticket_v2.0\refund_ticket.c
+	<stdio.h>
+	"refund_ticket.h"
+	"global_list.h"
+	<string.h>
+
+1725185932 source:d:\ccode\air_ticket_v2.0\rootmeau.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rootmeau.h"
+
+1725111296 d:\ccode\air_ticket_v2.0\addflight.h
+
+1725178350 d:\ccode\air_ticket_v2.0\deleteflight.h
+
+1725179093 d:\ccode\air_ticket_v2.0\printordercustombyairnum1.h
+
+1725178812 d:\ccode\air_ticket_v2.0\modifyflightinformation.h
+
+1725192823 source:d:\ccode\air_ticket_v2.0\searchbyairnumber.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"searchbyAirnumber.h"
+	"global_list.h"
+
+1725193183 source:d:\ccode\air_ticket_v2.0\searchbyendplace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"searchbyEndPlace.h"
+	"global_list.h"
+
+1725192835 source:d:\ccode\air_ticket_v2.0\searchbystartplace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"searchbystartPlace.h"
+	"global_list.h"
+
+1725241376 source:d:\ccode\air_ticket_v2.0\showmenu1.c
+	<stdio.h>
+	"showMenu1.h"
+	"rootmeau.h"
+	"passengermeau.h"
+	<stdlib.h>
+
+1725092553 d:\ccode\air_ticket_v2.0\showmenu1.h
+
+1725185824 d:\ccode\air_ticket_v2.0\rootmeau.h
+
+1725185866 d:\ccode\air_ticket_v2.0\passengermeau.h
+
+1725199372 source:d:\ccode\air_ticket_v2.0\orderticket.c
+	<stdio.h>
+	<string.h>
+	"global_list.h"
+	"globals.h"
+	"orderTicket.h"
+
+1725186495 source:d:\ccode\air_ticket_v2.0\globals.c
+	"globals.h"
+
+1725188552 d:\ccode\air_ticket_v2.0\globals.h
+
+1725189353 d:\ccode\air_ticket_v2.0\global_list.h
+	"list_node.h"
+
+1725241096 d:\ccode\air_ticket_v2.0\list_node.h
+
+1725193335 source:d:\ccode\air_ticket_v2.0\global_list.c
+	"global_list.h"
+	<stddef.h>
+

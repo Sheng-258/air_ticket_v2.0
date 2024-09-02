@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Air_Ticket_v2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Air_Ticket_v2.0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Air_Ticket_v2.0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CheckBookingInformation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CheckBookingInformation.h" />
+		<Unit filename="CheckRouteInformation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CheckRouteInformation.h" />
+		<Unit filename="ModifyFlightInformation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ModifyFlightInformation.h" />
+		<Unit filename="addFlight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addFlight.h" />
+		<Unit filename="air_ticket.h" />
+		<Unit filename="deleteFlight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deleteFlight.h" />
+		<Unit filename="global_list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="global_list.h" />
+		<Unit filename="globals.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="globals.h" />
+		<Unit filename="list_node.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orderTicket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orderTicket.h" />
+		<Unit filename="passengermeau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="passengermeau.h" />
+		<Unit filename="printOrderCustomByAirNum1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printOrderCustomByAirNum1.h" />
+		<Unit filename="refund_ticket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="refund_ticket.h" />
+		<Unit filename="rootmeau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rootmeau.h" />
+		<Unit filename="searchbyAirnumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="searchbyAirnumber.h" />
+		<Unit filename="searchbyEndPlace.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="searchbyEndPlace.h" />
+		<Unit filename="searchbystartPlace.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="searchbystartPlace.h" />
+		<Unit filename="showMenu1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="showMenu1.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
